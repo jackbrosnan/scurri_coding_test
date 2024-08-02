@@ -49,7 +49,7 @@ class UKPostcode:
 # Example usage
 if __name__ == "__main__":
     sample_postcodes = [
-        "AA9A9AA", "W1A0AX", "M11AE", "B338TH", "CR26XH", "DN551PT", "G58 1SB",
+        "AA9A9AA", "W1A0AX", "M11AE", "B338TH", "CR26XH", "DN551PT", "G58 1SB", "b11hq",
         "B1 1HQ", "BX4 7SB", "E20 2AQ", "INVALID", "TKCA 1ZZ", "A00BBB",
     ]
 

@@ -1,4 +1,4 @@
-def ThreeFive():
+def three_five():
     num_array = []
     for num in range(1, 100):
         if num % 3 == 0 and num % 5 == 0:
